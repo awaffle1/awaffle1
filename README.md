@@ -1,6 +1,7 @@
 - 👋 hello there, I'm @awaffle1
 - 👀 I like doing things. I work on minecraft servers :l
-- 🌱 I’m currently learning C<br>
+- 🌱 I’m currently learning C and Python and literally every programming language because I can<br>
+- I know how to use git now :)
 <br>
 ok cool
 
